@@ -9,7 +9,6 @@ or custom numbers.
 
 ## Features
 
--   Clean Notion-inspired web UI\
 -   Input multiple:
     -   first names\
     -   relatives\
@@ -29,7 +28,7 @@ or custom numbers.
     -   UPPERCASE\
     -   Capitalized whole string
 -   Output downloaded as `combinations.txt`
--   Footer message: *i do not know why u need this for*
+*i do not know why u need this for*
 
 ------------------------------------------------------------------------
 
