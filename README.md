@@ -56,7 +56,7 @@ or custom numbers.
 git clone <your-repo-url>
 cd evilcombo
 go mod init evilcombo
-go run main.go
+go run evilwordlist.go
 ```
 
 ------------------------------------------------------------------------
