@@ -66,7 +66,7 @@ go run evilwordlist.go
 1.  Run:
 
 ``` bash
-go run main.go
+go run evilwordlist.go
 ```
 
 2.  Open:
