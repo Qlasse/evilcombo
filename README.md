@@ -53,7 +53,7 @@ or custom numbers.
 ## Installation
 
 ``` bash
-git clone <your-repo-url>
+git clone https://github.com/Qlasse/evilcombo
 cd evilcombo
 go mod init evilcombo
 go run evilwordlist.go
